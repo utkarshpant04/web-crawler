@@ -1,0 +1,39 @@
+At recursion level 1
+Total Links found: 16
+https://hackertyper.net/
+https://url.duiker101.net/blog
+https://sum.duiker101.net/agr.js
+https://url.duiker101.net/expvpn
+https://url.duiker101.net/5
+https://url.duiker101.net/7
+https://url.duiker101.net/jobs
+https://duiker101.net
+https://url.duiker101.net/6
+https://url.duiker101.net/4
+https://hackertyper.net/main.css?v=1.22
+https://hackertyper.net/img/logo192.png
+https://hackertyper.net/link.js?v=1.84
+https://hackertyper.net/manifest.json
+https://hackertyper.net/main.js?v=1.84
+https://hackertyper.net/img/favicon.ico
+
+At recursion level 2
+Total Links found: 17
+https://hackertyper.net/
+https://url.duiker101.net/blog
+https://sum.duiker101.net/agr.js
+https://url.duiker101.net/expvpn
+https://url.duiker101.net/5
+https://url.duiker101.net/7
+https://url.duiker101.net/jobs
+https://duiker101.net
+https://url.duiker101.net/6
+https://url.duiker101.net/4
+https://hackertyper.net/main.css?v=1.22
+https://hackertyper.net/img/logo192.png
+https://hackertyper.net/link.js?v=1.84
+https://hackertyper.net/${`https:/fonts.googleapis.com/css?family=${b}&display=swap`}
+https://hackertyper.net/manifest.json
+https://hackertyper.net/main.js?v=1.84
+https://hackertyper.net/img/favicon.ico
+
